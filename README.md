@@ -1,4 +1,4 @@
-#DCS Calendar
+#CalendarHub
 
 This is a course requirement for CS191/192 Software Engineering Course of the Department of
 
