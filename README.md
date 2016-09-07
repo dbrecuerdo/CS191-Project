@@ -1,4 +1,4 @@
-DCS Calendar
+#DCS Calendar
 
 This is a course requirement for CS191/192 Software Engineering Course of the Department of
 
@@ -8,10 +8,8 @@ guidance of Ma. Rowena C. Solamo for the 1st and 2nd Semester of the academic ye
 
 2017.
 
-No Idea
+*NoIdea*
 
-Jairus John Garcia
-
-Jan Daniel Laborada
-
-Diane Abegail Recuerdo
+-Jairus John Garcia
+-Jan Daniel Laborada
+-Diane Abegail Recuerdo
