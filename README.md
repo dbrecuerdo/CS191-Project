@@ -10,6 +10,6 @@ guidance of Ma. Rowena C. Solamo for the 1st and 2nd Semester of the academic ye
 
 *NoIdea*
 
--Jairus John Garcia
--Jan Daniel Laborada
--Diane Abegail Recuerdo
+- Jairus John Garcia
+- Jan Daniel Laborada
+- Diane Abegail Recuerdo
